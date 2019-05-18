@@ -3,9 +3,9 @@
     <info>
         <name>Apeling</name>
         <description>5e homebrew</description>
-        <author url="https://www.dandwiki.com/wiki/Apeling_(5e_Race)">D&amp;D Wiki</author>
+        <author url="https://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
         <update version="0.0.1">
-            <file name="race-apeling.xml" url="https://raw.githubusercontent.com/ArturMorgen/D-D_Homebrew/race-apeling.xml" />
+            <file name="race-apeling.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/races/race-apeling.xml" />
         </update>
     </info>
 
